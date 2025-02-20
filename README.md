@@ -6,7 +6,7 @@ ScanMyResume is a Node.js backend that extracts, processes, and searches resume 
 
 ## 🚀 Deployment
 
-**Live API URL:** [https://your-deployment-link.com](https://your-deployment-link.com)  
+**Live API URL:** [https://scan-my-resume.vercel.app](https://scan-my-resume.vercel.app)  
 (Replace with actual deployed URL)
 
 ---
